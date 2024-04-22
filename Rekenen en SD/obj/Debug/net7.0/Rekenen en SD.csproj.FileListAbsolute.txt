@@ -1,0 +1,14 @@
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\bin\Debug\net7.0\Rekenen en SD.exe
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\bin\Debug\net7.0\Rekenen en SD.deps.json
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\bin\Debug\net7.0\Rekenen en SD.runtimeconfig.json
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\bin\Debug\net7.0\Rekenen en SD.dll
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\bin\Debug\net7.0\Rekenen en SD.pdb
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.AssemblyInfoInputs.cache
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.AssemblyInfo.cs
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.csproj.CoreCompileInputs.cache
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.dll
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\refint\Rekenen en SD.dll
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.pdb
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\Rekenen en SD.genruntimeconfig.cache
+C:\Users\eedal\Desktop\Schooljaar2023-2024\Periode 1\Rekenen en SD\obj\Debug\net7.0\ref\Rekenen en SD.dll
